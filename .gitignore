@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Output folders
+# converted_videos/
+# input_videos/
+
+# CSV files
+*.csv
+
+# OS-specific
+.DS_Store
+Thumbs.db
